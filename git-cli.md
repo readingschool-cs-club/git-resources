@@ -18,8 +18,10 @@ The integral commands you need to know to operate any Git repo are `git
 add` and `git commit`:
 
   * `git add [-A]`: Stages the given files.
-  
+
+<!--
 I use this so much that I've aliased it to `git a`.
+-->
 
 Passing the `-A` option stages *all* files. Useful if you've added tons
 of files and want to add most of them (see [Unstaging](#unstaging) for
