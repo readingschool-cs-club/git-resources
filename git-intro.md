@@ -12,6 +12,9 @@ Staging
 Committing
 ----------
 
+Branching
+---------
+
 Merging
 -------
 
